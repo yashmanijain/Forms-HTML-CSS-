@@ -1,0 +1,31 @@
+#header{
+    text-align: center;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: rgb(224, 224, 224);
+    width: 40%;
+    margin: auto;
+    margin-top: 10rem;
+}
+#lowerContainer{
+    text-align: center;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: rgb(160, 160, 160);
+    width: 40%;
+    margin: auto;
+    margin-top: 2rem;
+}
+.box{
+    margin: 12px 5px;
+    padding: 2px 5px;
+    
+    }
+
+.btn input{
+    width: 2cm;
+    margin: 16px 15px;
+    padding: 6px 2px;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+}

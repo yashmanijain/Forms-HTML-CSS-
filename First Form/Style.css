@@ -1,0 +1,56 @@
+#header{
+    text-align: left;
+    margin: auto;
+    margin-top: 10rem;
+    padding: 8px;
+    width: 50%;
+    background-color: wheat;
+    
+}
+
+#container{
+    text-align: left;
+    margin: auto;
+    margin-top: 2rem;
+    padding: 10px;
+    width: 50%;
+    background-color: rgb(207, 203, 203);
+}
+
+.box{
+    text-align: left;
+    margin: 2px 2px;
+    padding:2px 2px;
+    width: 11cm;
+    
+    
+
+}
+
+.box input{
+    width: 106%;
+    font-size: medium;
+    background-color: rgb(230, 230, 230);
+}
+.box select{
+    width: 106%;
+    font-size: medium;
+    background-color: rgb(230, 230, 230);
+}
+.box textarea{
+    width: 106%;
+    font-size: medium;
+    background-color: rgb(230, 230, 230);
+}
+.btn input{
+    font-size: medium;
+    background-color: rgb(17, 149, 105);
+    text-align: center;
+    margin: 14px 2px;
+    padding:11px 6px;
+    width: 97%; 
+    text-decoration: none;
+    border: none; 
+    color: cornsilk;
+}
+
